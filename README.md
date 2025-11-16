@@ -7,6 +7,19 @@ A full-stack web application for detecting and annotating objects (signatures, s
 ![React](https://img.shields.io/badge/React-18-blue)
 ![Django](https://img.shields.io/badge/Django-4.2-green)
 
+## 📸 Detection Examples
+
+Here are some examples of object detection results on PDF documents:
+
+### Example 1
+![Detection Example 1](image1.png)
+
+### Example 2
+![Detection Example 2](image2.png)
+
+### Example 3
+![Detection Example 3](image3.png)
+
 ## 🚀 Features
 
 - **PDF Upload & Processing**: Drag-and-drop interface for PDF files
@@ -320,3 +333,4 @@ MIT
 ---
 
 Made with ❤️ for InnovateX Hackathon
+
